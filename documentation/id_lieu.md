@@ -1,3 +1,3 @@
 # test id_lieu
 
-![image](./assets/lieu.png)
+![image](./assets/lieu.png =30x30)
