@@ -100,7 +100,7 @@
             }
         },
         {
-            "name":"ad_lieu",
+            "name":"adresse_lieu",
             "description":"L'adresse du lieu compréhensible par le grand public pour assurer la coordination entre le passager et le conducteur. Exemple : \"3, rue de la gare\" ; pour les lieux proches des sorties d'autoroute ou de nationale : \"A11 sortie 7 Le Mans Nord\" ; pour les zones rurales sans adresse : \"croisement de route 1 - route 2\" ou \"le long de route X après le passage à niveau\"",
             "example":"3, rue de la Gare",
             "type":"string",
